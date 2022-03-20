@@ -11,6 +11,11 @@ The workspace contains two folders by default, where:
 
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
+
+
+![1 al 100 while](https://user-images.githubusercontent.com/92134025/159188624-a35adc53-329a-4157-8795-e44c12af63c5.png)
+
+
 > If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
 ## Dependency Management
