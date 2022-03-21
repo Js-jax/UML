@@ -9,10 +9,13 @@ public class cliente {
 
   public void Reservacion() {
 
-    boolean telefonica;
-    boolean online;
-    boolean presencial;
+    boolean telefonica = false;
+    boolean online = true;
+    boolean presencial = false;
 
+    System.out.println(telefonica);
+    System.out.println(online);
+    System.out.println(presencial);
   }
 
 }
